@@ -42,5 +42,7 @@ Here is a screenshot of the game in action:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Thenighthunte/Vier-Gewinnt-Test-1.git
+   git clone https://github.com/Thenighthunte/Vier-Gewinnt-Test-1
+
+   .git
    cd Vier-Gewinnt-Test-1
